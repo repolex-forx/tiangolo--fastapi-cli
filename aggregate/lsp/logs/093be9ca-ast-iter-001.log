@@ -1,0 +1,7 @@
+[2026-10-12T20:17:35Z] === AST ITERATION 1 START | repo=tiangolo/fastapi-cli sha=093be9ca ===
+[2026-10-12T20:17:35Z] [iter=1] PHASE START: ast repo=tiangolo/fastapi-cli sha=093be9ca
+[2026-10-12T20:17:35Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T20:17:49Z] [iter=1] AST chunks built count=1 triples=129233
+[2026-10-12T20:17:49Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/093be9ca19f2ef44ba523aae0a98d6c9ea2e0888/.complete
+[2026-10-12T20:17:49Z] [iter=1] PHASE END: ast elapsed_s=14 elapsed_min=0.2
+[2026-10-12T20:17:49Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

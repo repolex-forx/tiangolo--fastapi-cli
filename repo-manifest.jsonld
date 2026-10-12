@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/fastapi-cli/commit/093be9ca19f2ef44ba523aae0a98d6c9ea2e0888",
       "git:hexsha": "093be9ca19f2ef44ba523aae0a98d6c9ea2e0888",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/fastapi-cli/commit/bf77bbd5f23f94093800bcb52607d71971dedfdc",
